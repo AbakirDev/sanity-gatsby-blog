@@ -2,7 +2,7 @@ export default{
     name: 'page',
     type:'document',
     title:'Page',
-    ffields:[
+    fields:[
         {
           name: 'title',
           type: 'string',
